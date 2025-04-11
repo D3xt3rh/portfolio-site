@@ -1,5 +1,3 @@
-# portfolio-site
-
 # Portfolio Website
 
 This is a personal portfolio website built with React, styled using Tailwind CSS, and deployed using GitHub Pages or Vercel. It includes:
